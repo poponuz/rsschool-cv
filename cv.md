@@ -1,10 +1,11 @@
 ## CV
  Khursandov Ilkhom 
 ##### **Contact Information:**
-* Phone: (99) 881 80 10
-* Email: ixursandov01@gmail.com
-* Discord: iHAVIC#6365
-* Address: Tashkent. Uzbekistan
+* **Phone:** (99) 881 80 10
+* **Email:** ixursandov01@gmail.com
+* **Discord:** iHAVIC#6365
+* **[Instagram](http://instagram.com/i_xursandov)**
+* **Address:** Tashkent. Uzbekistan
     
 
 ##### **Summary**:     
@@ -75,7 +76,7 @@ Tashkent Institute Of Irrigation And Agricultural Mechanization Engineers
 Tashkent Institute Of Finance
 2018-2020
 
-7. **English:** 
+#### **English:** 
 * My english level is b2
 
 
