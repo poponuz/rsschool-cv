@@ -60,8 +60,10 @@ Other computer skills
 ```
 5. **Work Experience:**
 
-* Bahwan Cybertek 2016 – Present
-* ABC Corp2015 – 2016
+| Company Name | Period |
+| ------ | ------ |
+| Bahwan Cybertek  | 2016 – Present |
+| ABC Corp | 2015 – 2016 |
 
 6. **Education:**
 * Professional College Of Information Technologies 
